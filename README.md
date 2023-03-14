@@ -1,4 +1,14 @@
-### Hi there 👋
+### ¡Hola! Soy Alina 👋
+
+## Front End Developer :computer:
+
+🌱 Actualmente: estoy aprendiendo a ser programadora Front End y a mejorar cada día.
+
+:books: Estudios: Licenciatura de Publicidad y RRPP, y 4 años en diseño de moda y patronaje.
+
+😄 Experiencia: Marketing, Diseño gráfico, Diseño de moda, Patronaje y, ahora también. Programación.
+
+## Tecnologías:
 
 <!--
 **AlinaBernardez/AlinaBernardez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
