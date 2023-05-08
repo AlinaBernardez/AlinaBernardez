@@ -2,7 +2,7 @@
 
 ### Front End Developer :computer:
 
-:nerd_face: Actualmente: estoy aprendiendo a ser programadora Front End y a mejorar día a día.
+:nerd_face: Actualmente: estoy aprendiendo a ser programadora Front End y a mejorar día a día en ello.
 
 :books: Estudios: Licenciatura de Publicidad y RRPP, y 4 años en diseño de moda y patronaje.
 
