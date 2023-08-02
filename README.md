@@ -8,6 +8,8 @@
 
 :watch: Experiencia: Marketing, Diseño gráfico, Diseño de moda, Patronaje y, ahora también. Programación.
 
+[Mi página Portfolio](https://alinabernardez.com)
+
 ### Tecnologías:
 
 - VSC
