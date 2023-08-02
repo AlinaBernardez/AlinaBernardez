@@ -16,3 +16,7 @@
 - JAVASCRIPT
   - REACT
   - JQUERY
+  - NODE JS
+- PSQL
+- MONGODB
+
