@@ -1,12 +1,12 @@
 ## ¡Hola! Soy Alina 👋
 
-### Front End Developer :computer:
+### Full Stack Developer :computer:
 
-:nerd_face: Actualmente: estoy aprendiendo a ser programadora Front End y a mejorar día a día en ello.
+:nerd_face: Actualmente: Tiltit App Software developer.
 
 :books: Estudios: Licenciatura de Publicidad y RRPP, y 4 años en diseño de moda y patronaje.
 
-:watch: Experiencia: Marketing, Diseño gráfico, Diseño de moda, Patronaje y, ahora también. Programación.
+:watch: Experiencia: Marketing, Diseño gráfico, Diseño de moda, Patronaje y, ahora también programación.
 
 ➡️➡️ [Mi página Portfolio](https://alinabernardez.com)
 
@@ -17,7 +17,7 @@
 - HTML
 - JAVASCRIPT
   - REACT
-  - JQUERY
+  - REACT NATIVE - EXPO
   - NODE JS
 - PSQL
 - MONGODB
