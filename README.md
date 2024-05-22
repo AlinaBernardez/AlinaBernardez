@@ -2,15 +2,15 @@
 
 ### Full Stack Developer :computer:
 
-:nerd_face: Actualmente: Tiltit App Software developer.
+:nerd_face: Actualmente: Hyarks Software developer.
 
-:books: Estudios: Licenciatura de Publicidad y RRPP, y 4 años en diseño de moda y patronaje.
+:books: Estudios: Licenciatura de Publicidad y RRPP, diseño de moda y patronaje por ordenador, DAW y Full-stack developer Bootcamp The Bridge.
 
 :watch: Experiencia: Marketing, Diseño gráfico, Diseño de moda, Patronaje y, ahora también programación.
 
 ➡️➡️ [Mi página Portfolio](https://alinabernardez.com)
 
-### Tecnologías:
+### Stack:
 
 - VSC
 - CSS (Bootstrap, SASS)
@@ -18,7 +18,7 @@
 - JAVASCRIPT
   - REACT
   - REACT NATIVE - EXPO
-  - NODE JS
-- PSQL
-- MONGODB
+  - NODE JS / EXPRESS
+- SQL
+- MONGODB / MONGOOSE
 
