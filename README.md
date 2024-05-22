@@ -6,7 +6,9 @@
 
 :books: Estudios: Licenciatura de Publicidad y RRPP, diseño de moda y patronaje por ordenador, DAW y Full-stack developer Bootcamp The Bridge.
 
-:watch: Experiencia: Marketing, Diseño gráfico, Diseño de moda, Patronaje y, ahora también programación.
+:watch: Experiencia: 
+- Tiltit App Product Owner
+- Hyarks full-stack developer
 
 ➡️➡️ [Mi página Portfolio](https://alinabernardez.com)
 
