@@ -15,7 +15,7 @@
 ### Stack:
 
 - VSC
-- CSS (Bootstrap, SASS)
+- CSS (Bootstrap, Tailwind, SASS)
 - HTML
 - JAVASCRIPT
   - REACT
